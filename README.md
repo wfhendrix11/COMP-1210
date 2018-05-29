@@ -1,3 +1,2 @@
 # COMP-1210
-Fundamentals of Computing I (Java I)
-Projects from Auburn's Java I class
+Projects from Auburn Univeristy's Fundamentals of Computing I class.
